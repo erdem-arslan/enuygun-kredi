@@ -1,0 +1,7 @@
+export {default as Header} from '@/components/header'
+export {default as Footer} from '@/components/footer'
+export {default as Hero} from '@/components/hero'
+export {default as Banner} from '@/components/banner'
+export {default as BannerCard} from '@/components/banner-card'
+export {default as Main} from '@/components/main'
+export {default as OfferCard} from '@/components/offer-card'
